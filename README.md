@@ -14,4 +14,5 @@ Step 1: git clone and get to typing
 
 # Works Cited
 - Typing Game Original Source Code for this game here: https://pythonturtle.academy/typing-game-with-python-and-turtle-source-code-included/
+- Space Turtle: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.furaffinity.net%2Fview%2F25809023%2F&psig=AOvVaw2nicvFOV4sYzsVVxJ0eF0C&ust=1689835339748000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCbka2VmoADFQAAAAAdAAAAABAD
 
