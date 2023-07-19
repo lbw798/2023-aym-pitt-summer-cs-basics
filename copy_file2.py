@@ -69,5 +69,21 @@ def key_press_handler(c):
   draw_score()
 
 
-draw_score()
+for count in range(n):
+  lts.append(turtle.Turtle())
+  while True:
+    l = get_random_letter()
+    if l not in letters:
+      letters.append(l)
+      break
+  speeds.append(random.uniform(min_speed, max_speed))
+  pos.append(get_random_position())
+
+for i in range(n):
+  lts[i].speed(0)
+  lts[i].hideturtle()
+  lts[i].up()
+  lts[i].color('white')
+
+draw_letters()
 # Copy and paste from copy_file2.py ending here ................................
